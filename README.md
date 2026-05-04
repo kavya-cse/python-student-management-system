@@ -1,31 +1,28 @@
-#Python-Based Student Management System with JSON Storage
+# Student Management System (CLI)
 
-This is a Python-based command-line application designed to manage student records efficiently. The system allows users to perform basic operations such as adding, viewing, searching, and deleting student data. All records are stored using JSON, ensuring data persistence across multiple runs.
+A Python-based command-line application to manage student records. This project demonstrates basic CRUD operations and data storage using JSON.
 
-#Features:
--Add new student details
--View all students in a structured format
--Search student by name
--Delete student records
--Clear all data (optional feature)
--Data stored using JSON (persistent storage)
+## Features
+- Add student details
+- View all students
+- Search student
+- Update student information
+- Delete student record
+- Persistent storage using JSON
 
-#Technologies Used:
--Python
--JSON (File Handling)
+## Technologies Used
+- Python
+- JSON
 
-#How to Run:
--Clone the repository
--Navigate to the project folder
--Run the program:
- python sms.py
+## How It Works
+- User interacts through a menu-driven CLI
+- Data is stored in a JSON file
+- Records can be added, updated, searched, and deleted dynamically
 
-#Sample Output:
-Displays a menu-driven interface where users can manage student records through simple numeric choices.
+## Purpose
+This project was built to understand basic data management, file handling, and CRUD operations in Python.
 
-Learning Outcomes:
-Understanding of file handling in Python
-Implementation of CRUD operations
-Working with JSON for data storage
-Building menu-driven CLI applications
+## Future Improvements
+- GUI interface
+- Database integration
 
