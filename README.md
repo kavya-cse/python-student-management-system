@@ -29,5 +29,3 @@ Implementation of CRUD operations
 Working with JSON for data storage
 Building menu-driven CLI applications
 
-Author:
-Kavya
